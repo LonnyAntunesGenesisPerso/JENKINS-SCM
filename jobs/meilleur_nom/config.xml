@@ -6,7 +6,7 @@
   <properties>
     <com.sonyericsson.rebuild.RebuildSettings plugin="rebuild@1.25">
       <autoRebuild>true</autoRebuild>
-      <rebuildDisabled>false</rebuildDisabled>
+      <rebuildDisabled>true</rebuildDisabled>
     </com.sonyericsson.rebuild.RebuildSettings>
   </properties>
   <scm class="hudson.scm.NullSCM"/>
